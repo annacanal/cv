@@ -1,4 +1,4 @@
-# Anna Canal Garcia
+# About
 
 Research Infrastructure Specialist  <br> 
 PhD in neuroimaging 🧠 and Telecommunications engineer 💻 based in Stockholm <br>
