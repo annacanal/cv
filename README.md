@@ -31,6 +31,7 @@ I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 backgrou
 - **Best academic record in the promotion 2015/2016** of Electrical Engineering and Telecommunications Engineering
 - **Honors in Bachelor Thesis**: Industrial IoT: Connected Asset Management
 - **Scholarship awarded** to **students** with **Honors** (La Salle Ramon Llull University)
+
 ## 💬 Languages
 
 **Catalan**: Native <br>
