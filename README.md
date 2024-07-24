@@ -30,7 +30,7 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 - Developed an Industrial IOT demonstration for the Mobile World Congress 2016
 - Network configuration of all the devices, used different communication protocols
 - Programming of the robotic arm movements and SCADA programming
-<br>
+<br><br>
 
 ## 🎓 Education
 **PhD in Medical Science**: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/xmlui/handle/10616/48955) <br>
@@ -89,13 +89,13 @@ Check my [Google Scholar Profile](https://scholar.google.com/citations?user=gKYB
 - Poster “Multiplex connectome changes across the Alzheimer’s disease spectrum using gray matter and amyloid data” at **OHBM 2021 conference**, June, online.
 - Oral presentation “Multilayer brain connectivity analysis in Alzheimer’s disease using amyloid and cortical thickness data” at **AD/PD 2021 conference**, March, online.
 - Poster “Analysis of multilayer brain connectivity in Alzheimer’s disease” at **ETAI 2020 conference**, August, online.
-<br>
+<br><br>
 
 ## 🎤 Seminar Talks
 - “**BRAPH 2.0: brain connectivity software with multilayer graphs and deep learning**” at **Jonasson seminar series** (KTH), March 2023.
 - “**Multilayer brain connectivity analysis in Alzheimer’s disease using functional MRI data**” at the **NVS Seminar series** (KI), October 2022.
 - “**Multiplex connectome changes across the Alzheimer’s disease spectrum using gray matter and amyloid data**” at the **Imaging Seminar from NVS** (KI), January 2022.
-<br>
+<br><br>
 
 ## <img src="images/blackboard.png" alt="blackboard_icon" width="23"> Lectures delivered at courses or workshops:
 - “**Multilayer network analysis I**” at the **Network Neuroscience course** (KI), October 2023.
