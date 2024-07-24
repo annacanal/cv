@@ -6,7 +6,7 @@ I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 backgrou
 
 [<img src="images/gmail_icon.png" alt="email_icon" width="23">](mailto:annacanalg@gmail.com) / [<img src="images/linkedin_icon.png" alt="linkedin_icon" width="22">](https://www.linkedin.com/in/annacanal/) / [<img src="images/github_icon.png" alt="github_icon" width="24">
 ](https://github.com/annacanal/) / [<img src="images/twitter_icon.png" alt="twitter_icon" width="23">](https://twitter.com/annacanalgarcia/)
-
+<br><br>
 ## 👩🏽‍💻 Experience
 **Research Infrastructure Specialist** @ [KI](https://ki.se/en/people/anna-canal-garcia) _(June 2024 - Present)_ <br>
 Research Infrastructure Specialist at CIR - Center for Imaging Research.
@@ -30,7 +30,7 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 - Developed an Industrial IOT demonstration for the Mobile World Congress 2016
 - Network configuration of all the devices, used different communication protocols
 - Programming of the robotic arm movements and SCADA programming
-
+<br><br>
 ## 🎓 Education
 **PhD in Medical Science**: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/xmlui/handle/10616/48955) <br>
 [Karolinska Institutet (KI)](https://www.ki.se/) - Stockholm _(2020 - 2024)_
@@ -44,14 +44,14 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 
 **Bachelor in Electrical Engineering** <br>
 [La Salle, Universitat Ramon Llull (La Salle URL)](https://www.salleurl.edu/) - Barcelona _(2012 - 2016)_
-
+<br><br>
 ## 👩🏽‍🏫 Teaching
 **Supervision of a master's students** from Pereira's research group (_Feb. - July 2021_ and _Jan. - April 2024_).
 
 **Teacher of the KI course: Network Neurosciences** (_Sept. - Oct. 2023_).
 
 **Organizer and teacher of the workshop: Application of Graph Theory and Deep Learning to Brain Connectivity**, held at SUBIC (_Oct. - Dec. 2022_).
-
+<br><br>
 ## 🏆 Awards
 **Gun & Bertil Stohnes Stiftelse Doktorandpris** for my research, given to the one or two most interesting PhD grant applications
 
@@ -62,17 +62,17 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 **Honors in Bachelor Thesis**: Industrial IoT: Connected Asset Management
 
 **Scholarship awarded** to **students** with **Honors** (La Salle Ramon Llull University)
-
+<br><br>
 ## 💬 Languages
 
 **Catalan**: Native <br>
 **Spanish**: Native <br>
 **English**: Proficiency <br>
 **Swedish**: B2 <br>
-
+<br>
 ## 📄 Publications
 Check my [Google Scholar Profile](https://scholar.google.com/citations?user=gKYBotYAAAAJ&hl=en).
-
+<br><br>
 ## 🎙 Conference presentations
 
 - Poster “Multilayer brain connectivity analysis in Alzheimer’s Disease using functional MRI” at **OHBM 2023 conference**, July, Montréal, Canada.
@@ -88,12 +88,12 @@ Check my [Google Scholar Profile](https://scholar.google.com/citations?user=gKYB
 - Poster “Multiplex connectome changes across the Alzheimer’s disease spectrum using gray matter and amyloid data” at **OHBM 2021 conference**, June, online.
 - Oral presentation “Multilayer brain connectivity analysis in Alzheimer’s disease using amyloid and cortical thickness data” at **AD/PD 2021 conference**, March, online.
 - Poster “Analysis of multilayer brain connectivity in Alzheimer’s disease” at **ETAI 2020 conference**, August, online.
-
+<br><br>
 ## 🎤 Seminar Talks
 - “**BRAPH 2.0: brain connectivity software with multilayer graphs and deep learning**” at **Jonasson seminar series** (KTH), March 2023.
 - “**Multilayer brain connectivity analysis in Alzheimer’s disease using functional MRI data**” at the **NVS Seminar series** (KI), October 2022.
 - “**Multiplex connectome changes across the Alzheimer’s disease spectrum using gray matter and amyloid data**” at the **Imaging Seminar from NVS** (KI), January 2022.
-
+<br><br>
 ## <img src="images/blackboard.png" alt="blackboard_icon" width="23"> Lectures delivered at courses or workshops:
 - “**Multilayer network analysis I**” at the **Network Neuroscience course** (KI), October 2023.
 - “**From single layer to multilayer graphs**” at the **workshop** “**Application of Graph Theory and Deep Learning to Brain Connectivity**” at SUBIC (SU), November 2022.
