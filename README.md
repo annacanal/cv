@@ -33,8 +33,9 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 <br><br>
 
 ## 🎓 Education
-**PhD in Medical Science**: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/xmlui/handle/10616/48955) <br>
-[Karolinska Institutet (KI)](https://www.ki.se/) - Stockholm _(2020 - 2024)_
+**PhD in Medical Science**: <br>
+[Karolinska Institutet (KI)](https://www.ki.se/) - Stockholm _(2020 - 2024)_  <br>
+Thesis: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/xmlui/handle/10616/48955)
 
 **Double Master's Degree:** <br>
 - **Master’s programme in Systems, Control and Robotics** (Specialization in AI)<br>
@@ -42,6 +43,8 @@ Research Infrastructure Specialist at CIR - Center for Imaging Research.
 
 - **Master's degree in Telecommunications Engineering** (Specialization in AI)<br>
 [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/) - Barcelona _(2016 - 2019)_
+
+Master's thesis: [_Study of brain imaging correlates of Mild Cognitive Impairment and Alzheimer’s Disease with machine learning_](https://kth.diva-portal.org/smash/get/diva2:1315722/FULLTEXT01.pdf)
 
 **Bachelor in Electrical Engineering** <br>
 [La Salle, Universitat Ramon Llull (La Salle URL)](https://www.salleurl.edu/) - Barcelona _(2012 - 2016)_
