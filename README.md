@@ -5,7 +5,7 @@
 I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 background. Proficient in data analysis, visualization, and machine learning, I bring expertise in multiple areas. Known for leadership abilities, I thrive in dynamic environments and excel at quickly adapting to new challenges. <br>
 
 [<img src="images/gmail_icon.png" alt="email_icon" width="23">](mailto:annacanalg@gmail.com) / [<img src="images/linkedin_icon.png" alt="linkedin_icon" width="22">](https://www.linkedin.com/in/annacanal/) / [<img src="images/github_icon.png" alt="github_icon" width="24">
-](https://github.com/annacanal/) / [<img src="images/twitter_icon.png" alt="twitter_icon" width="23">](https://twitter.com/annacanalgarcia/)
+](https://github.com/annacanal/) / [<img src="images/twitter_icon.png" alt="twitter_icon" width="23">](https://twitter.com/annacanalgarcia/)  / [<img src="images/Google_Scholar_logo.svg" alt="gs_icon" width="23">](https://scholar.google.com/citations?user=gKYBotYAAAAJ&hl=en)
 <br><br>
 ## 👩🏽‍💻 Experience
 **Research Infrastructure Specialist** @ [KI](https://ki.se/en/people/anna-canal-garcia) _(June 2024 - Present)_ <br>
