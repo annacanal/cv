@@ -9,7 +9,9 @@ I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 backgrou
 <br><br>
 ## 👩🏽‍💻 Experience
 **Research Infrastructure Specialist** @ [KI](https://ki.se/en/people/anna-canal-garcia) _(June 2024 - Present)_ <br>
-Research Infrastructure Specialist at CIR - Center for Imaging Research.
+Research Infrastructure Specialist at [CIR](https://imagingresearch.se/) - Center for Imaging Research.
+- Provide integration and analysis services for multimodal brain imaging data at CIR to researchers, clinicians, and other healthcare stakeholders.
+- Collection and management of a multimodal brain imaging reference dataset.
 
 **PhD Candidate** @ [CNS Department, KI](https://ki.se/) _(Feb. 2020 - March 2024)_ <br>
 - Developed BRAPH2, a software for brain connectivity analysis with multilayer graphs and deep learning 
