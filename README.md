@@ -8,8 +8,7 @@ I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 backgrou
 ](https://github.com/annacanal/) / [<img src="images/twitter_icon.png" alt="twitter_icon" width="23">](https://twitter.com/annacanalgarcia/)  / [<img src="images/Google_Scholar_logo.svg" alt="gs_icon" width="23">](https://scholar.google.com/citations?user=gKYBotYAAAAJ&hl=en)
 <br><br>
 ## 👩🏽‍💻 Experience
-**Research Infrastructure Specialist** @ [KI](https://ki.se/en/people/anna-canal-garcia) _(June 2024 - Present)_ <br>
-Research Infrastructure Specialist at [CIR](https://imagingresearch.se/) - Center for Imaging Research.
+**Research Infrastructure Specialist** @ [Centre for Imaging Research (CIR), KI](https://imagingresearch.se/) _(June 2024 - Present)_ <br>
 - Provide integration and analysis services for multimodal brain imaging data at CIR to researchers, clinicians, and other healthcare stakeholders.
 - Collection and management of a multimodal brain imaging reference dataset.
 
