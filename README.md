@@ -36,7 +36,7 @@ I am a PhD graduate in neuroscience 🧠 with a strong engineering 💻 backgrou
 ## 🎓 Education
 **PhD in Medical Science**: <br>
 [Karolinska Institutet (KI)](https://www.ki.se/) - Stockholm _(2020 - 2024)_  <br>
-Thesis: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/xmlui/handle/10616/48955)
+Thesis: [_Multimodal and multiscale brain networks: understanding aging, Alzheimer’s disease, and other neurodegenerative disorders_](https://openarchive.ki.se/articles/thesis/Multimodal_and_multiscale_brain_networks_understanding_aging_Alzheimer_s_disease_and_other_neurodegenerative_disorders/26919046?file=48964432)
 
 **Double Master's Degree:** <br>
 - **Master’s programme in Systems, Control and Robotics** (Specialization in AI)<br>
